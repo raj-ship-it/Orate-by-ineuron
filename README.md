@@ -3,5 +3,6 @@
 
 The Architecture of our ineuron Live Streaming Application :
 
-<img width="884" alt="Screenshot 2022-09-04 at 8 42 43 AM" src="https://user-images.githubusercontent.com/82359146/188295484-812f5a96-39c8-4c07-a92f-abbcbdb54545.png">
+<img width="1025" alt="Screenshot 2022-09-04 at 8 57 54 AM" src="https://user-images.githubusercontent.com/82359146/188295880-968ed649-5123-4f35-8aee-9ad46584d6a0.png">
+
 
