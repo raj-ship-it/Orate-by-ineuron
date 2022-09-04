@@ -1,5 +1,8 @@
 # Orate-by-ineuron
- <b>One of the newer niches of the creator economy is live streaming,</b> which provides an ultimate way for talented people to express themselves to a broad audience that is what we are doing by the virtue of an online live streaming app entitled Orate ,empowering organisations like ineuron to deliver their services more efficiently by  providing <b>custom controls like (play, pause, backward,forward)</b> and <b>scalable formats (like vimeo,YouTube, mp4)</b> and unique features like <b>live chat.</b>
+ <b>One of the newer niches of the creator economy is live streaming,</b> which provides an ultimate way for talented people to express themselves to a broad audience that is what we are doing by the virtue of an online live streaming app entitled Orate ,empowering organisations like ineuron to deliver their services more efficiently by  providing - 
+ 1. <b>custom controls like (play, pause, backward,forward)</b> 
+ 2. <b>scalable formats (like vimeo,YouTube, mp4)</b> 
+ 3. unique features like <b>live chat.</b>
 
 The Architecture of our ineuron Live Streaming Application :
 
